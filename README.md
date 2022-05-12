@@ -87,11 +87,11 @@ void loop()
 
 ```
 
-### Output :
+### OUTPUT :
 ![OUTPUT](./2.png)
 ![OUTPUT](./1.png)
 
-### Result :
+### RESULT :
 An FSR(force sensitive resistor) has been interfaced and  output voltage has been scaled to obtain the  pressure applied. 
 
 
