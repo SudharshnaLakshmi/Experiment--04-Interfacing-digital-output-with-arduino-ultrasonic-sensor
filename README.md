@@ -1,4 +1,4 @@
-# EXPERIMENT-NO--05-Distance measurement using Ultrasonic sensor
+# EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
 
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
@@ -34,7 +34,7 @@ The time between the transmission and reception of the signal allows us to calcu
 distance to an object = ((speed of sound in the air)*time)/2
 speed of sound in the air at 20ºC (68ºF) = 343m/s
 
-### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
+### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR :
 
 
 ![image](https://user-images.githubusercontent.com/36288975/166430594-5adb4ca9-5a42-4781-a7e6-7236b3766a85.png)
@@ -54,7 +54,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 10.	Plot the graph for the output voltage vs the resistance 
 
 
-### PROGRAM 
+### PROGRAM :
 
 ```
 #define echoPin 9
@@ -87,11 +87,11 @@ void loop()
 
 ```
 
-### Output
+### Output :
 ![OUTPUT](./2.png)
 ![OUTPUT](./1.png)
 
-### RESULT
+### Result :
 An FSR(force sensitive resistor) has been interfaced and  output voltage has been scaled to obtain the  pressure applied. 
 
 
